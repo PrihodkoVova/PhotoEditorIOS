@@ -1,0 +1,6 @@
+platform :ios, '9.0'
+
+target 'PhotoEditor' do
+  use_frameworks!
+  pod 'imglyKit', '~> 6.5'
+end
